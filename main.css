@@ -1,0 +1,6 @@
+.string{
+    display: inline-block
+}
+#error, #error1{
+    color: red;
+}
